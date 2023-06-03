@@ -3,9 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/JavaTest/RMIServer/src/rmiserver/MathObject.java</file>
-            <file>file:/D:/JavaTest/RMIServer/src/rmiserver/RMIServer.java</file>
-            <file>file:/D:/JavaTest/RMIServer/src/rmiserver/IMath.java</file>
+            <file>file:/D:/JavaTest/RMI/RMIServer/src/rmiserver/RMIServer.java</file>
+            <file>file:/D:/JavaTest/RMI/RMIServer/src/rmiserver/MathObject.java</file>
+            <file>file:/D:/JavaTest/RMI/RMIServer/src/rmiserver/IMath.java</file>
         </group>
     </open-files>
 </project-private>
