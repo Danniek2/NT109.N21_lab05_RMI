@@ -31,5 +31,21 @@ public class MathObject extends UnicastRemoteObject implements IMath {
     public int div(int a, int b) throws RemoteException {
             return a/b;
     }
+    public float[] PTBac2(float a, float b, float c) throws RemoteException{
+
+        float delta = b*b - 4*a*c;
+        float x1;
+        float x2;
+        if(delta < 0)
+        {
+            throw new RemoteException("phuong trinh khong co nghiem");
+        }
+        // tính nghiệm
+        
+        x1 = (float) ((-b + Math.sqrt(delta)) / (2*a));
+        x2 = (float) ((-b - Math.sqrt(delta)) / (2*a));
+                
+        return new float[] {x1,x2};
+    }
 }
 

@@ -42,6 +42,7 @@ public class RMIClient {
         }
         catch (Exception e) {
         System.err.println("Error: " + e.getMessage());
+        System.out.println("nhap vao bi loi");
         n.Logs("nhap vao bi loi");
         }
     }

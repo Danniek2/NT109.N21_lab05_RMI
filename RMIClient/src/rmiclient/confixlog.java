@@ -19,7 +19,7 @@ public class confixlog {
     }
     public void Logs(String s) throws IOException{
         Date date = new Date();
-        
+        System.out.print(date +": "+ s + "\n");
         try{
             //tạo tệp và lưu vào ổ D:\\JavaTest\\test22_5 với tên là Logs
                File foder = new File("D:\\JavaTest\\RMI\\RMIClient\\Logs");

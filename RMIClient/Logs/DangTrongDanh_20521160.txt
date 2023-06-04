@@ -1,6 +1,20 @@
-Sat Jun 03 13:33:05 ICT 2023: Nhap vao so thu nhat
-Sat Jun 03 13:33:11 ICT 2023: Nhap vao so thu hai
-Sat Jun 03 13:33:11 ICT 2023: ket qua cua phep tinh tong hai so
-Sat Jun 03 13:33:11 ICT 2023: ket qua cua phep tinh hieu hai so
-Sat Jun 03 13:33:11 ICT 2023: ket qua cua phep tinh tich hai so
-Sat Jun 03 13:33:11 ICT 2023: ket qua cua phep tinh thuong hai so
+Sat Jun 03 16:29:50 ICT 2023: Nhap vao so thu nhat
+Sat Jun 03 16:29:53 ICT 2023: Nhap vao so thu hai
+Sat Jun 03 16:29:53 ICT 2023: ket qua cua phep tinh tong hai so
+Sat Jun 03 16:29:53 ICT 2023: ket qua cua phep tinh hieu hai so
+Sat Jun 03 16:29:53 ICT 2023: ket qua cua phep tinh tich hai so
+Sat Jun 03 16:29:53 ICT 2023: ket qua cua phep tinh thuong hai so
+Sun Jun 04 12:05:56 ICT 2023: Da nhap vao 1
+Sun Jun 04 12:05:58 ICT 2023: Thuc hien phep tinh cong
+Sun Jun 04 12:06:01 ICT 2023: Da nhap vao 2
+Sun Jun 04 12:06:04 ICT 2023: ket qua cua phep tinh cong
+Sun Jun 04 12:06:37 ICT 2023: thuc hien phep tinh tru
+Sun Jun 04 12:06:40 ICT 2023: Da nhap vao 1
+Sun Jun 04 12:06:42 ICT 2023: ket qua cua phep tinh tru
+Sun Jun 04 12:07:00 ICT 2023: thuc hien phép tinh nhan
+Sun Jun 04 12:07:01 ICT 2023: Da nhap vao 3
+Sun Jun 04 12:07:02 ICT 2023: ket qua phep tinh nhan
+Sun Jun 04 12:07:16 ICT 2023: thuc hien phep tinh chia
+Sun Jun 04 12:07:19 ICT 2023: Da nhap vao 2
+Sun Jun 04 12:07:20 ICT 2023: ket qua phep tinh chia
+Sun Jun 04 13:12:16 ICT 2023: Ket qua tinh phuong trinh bac hai!

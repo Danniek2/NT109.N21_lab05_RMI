@@ -17,5 +17,7 @@ public interface IMath extends Remote
     public int sub(int a, int b) throws RemoteException;
     public int mul(int a, int b) throws RemoteException;
     public int div(int a, int b) throws RemoteException;
+    public float[] PTBac2(float a, float b, float c) throws RemoteException;
+
 }
 
